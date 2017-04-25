@@ -1,0 +1,3 @@
+name: TakmiSample
+version: @version@
+main: net.atlantis.takmisample.TakmiSample
