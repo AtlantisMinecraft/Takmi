@@ -4,6 +4,7 @@
 
 ## 使い方
 
-* jarファイルをダウンロードorビルド
+* jarファイルをダウンロード
+　　* https://github.com/AtlantisMinecraft/Takmi/releases
 * サーバーに導入
 * 棒を右クリックすることで使えます
