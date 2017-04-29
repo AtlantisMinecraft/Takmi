@@ -134,9 +134,9 @@ public class CircleEffect {
      * 目線のベクトルを標準とした座標系へ変換する
      *
      * @param location 現在の位置
-     * @param x        規定座標でのx
-     * @param y        規定座標でのy
-     * @param z        規定座標でのz
+     * @param x        基底座標でのx
+     * @param y        基底座標でのy
+     * @param z        基底座標でのz
      * @return 座標変換されたLocation
      */
     private Location getTransformedLocation(Location location, double x, double y, double z) {
